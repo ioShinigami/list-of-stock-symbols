@@ -1,4 +1,4 @@
-export const DOWSTOCKLIST = [
+{
   'AXP',
   'CAT',
   'MMM',
@@ -29,4 +29,4 @@ export const DOWSTOCKLIST = [
   'KO',
   'JPM',
   'IBM',
-];
+}
